@@ -1,0 +1,9 @@
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\bin\Debug\ModUpdater.exe.config
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\bin\Debug\ModUpdater.exe
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\bin\Debug\ModUpdater.pdb
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\obj\Debug\ModUpdater.csproj.AssemblyReference.cache
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\obj\Debug\ModUpdater.ModUpdaterRes.resources
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\obj\Debug\ModUpdater.csproj.GenerateResource.cache
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\obj\Debug\ModUpdater.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\obj\Debug\ModUpdater.exe
+C:\Users\master\Desktop\新しいフォルダー\ModUpdater\obj\Debug\ModUpdater.pdb
